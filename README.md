@@ -38,4 +38,7 @@
 
 ![snake gif](https://github.com/eduardoproenca/eduardoproenca/blob/output/github-contribution-grid-snake.svg)
 
+<div align="right">
+<img height = "150" src="https://user-images.githubusercontent.com/107010062/172453258-cfa30e4b-73d9-4abc-b8d3-f34be23c0060.png">
+</div>
 
