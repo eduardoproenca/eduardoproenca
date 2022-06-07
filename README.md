@@ -31,8 +31,8 @@
   <a href="https://www.instagram.com/gab_proenca/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:eduardogabs020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-gabriel-proen%C3%A7a-de-carvalho-progms01000111/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://discord.gg/hZDKF88A" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-
+  <a href="https://discord.gg/hZDKF88A" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/eduardogamesb11" target="_blank"><img src="https://img.shields.io/badge/Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/eduardoproenca/count.svg" /></p>
