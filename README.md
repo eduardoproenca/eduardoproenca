@@ -1,21 +1,23 @@
 ## Olá, Eu sou Eduardo Proença
 ![wink-eye](https://user-images.githubusercontent.com/107010062/172271952-29aa4779-a01c-4f10-bce9-768d07e91dce.gif)
+
 </br>
 <div align="center">
 <h2> Seja, bem vindo! </h2>
 </div>
+
 </br>
-<div align="center">
+ <div align="left">
+ <a href="https://github.com/eduardoproenca">
+ <img height="175em" src="https://github-readme-stats.vercel.app/api?username=eduardoproenca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  <div align="right">
+ <img height="250cm" src="https://user-images.githubusercontent.com/107010062/172453258-cfa30e4b-73d9-4abc-b8d3-f34be23c0060.png">
+</div>
+ 
+</br>
   <div align="left">
-  <a href="https://github.com/eduardoproenca">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=eduardoproenca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <div align="right">
-<img height = "250" src="https://user-images.githubusercontent.com/107010062/172453258-cfa30e4b-73d9-4abc-b8d3-f34be23c0060.png">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoproenca&layout=compact&langs_count=7&theme=dark"/>
 </div>
-    </br>
-  <div align="left">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoproenca&layout=compact&langs_count=7&theme=dark"/>
-</div>
-</div>
+
 </br>
  <div align="center">
 <div style="display: inline_block"><br>
@@ -24,7 +26,7 @@
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
- </div>
+
 </br>
 <div align="center">
    <a href="https://www.tiktok.com/@uphoenixz" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
@@ -38,6 +40,7 @@
  </br> <a href="https://store.epicgames.com/pt-BR/u/cd24e73e23e44aa8886b5438aa5eeea4" target="_blank"><img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" target="_blank"></a>
   <a href= "https://steamcommunity.com/profiles/76561198984572464" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
+
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/eduardoproenca/count.svg" /></p>
 
