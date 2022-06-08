@@ -9,13 +9,14 @@
 </br>
  <div align="left">
  <a href="https://github.com/eduardoproenca">
- <img height="175em" src="https://github-readme-stats.vercel.app/api?username=eduardoproenca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  <div align="right">
- <img height="250cm" src="https://user-images.githubusercontent.com/107010062/172453258-cfa30e4b-73d9-4abc-b8d3-f34be23c0060.png">
+ <img height="175em" src="https://github-readme-stats.vercel.app/api?username=eduardoproenca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoproenca&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
 </br>
-  <div align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoproenca&layout=compact&langs_count=7&theme=dark"/>
+ <div align="right">
+ <a href="https://github.com/eduardoproenca">
+ <img height="250cm" src="https://user-images.githubusercontent.com/107010062/172722819-66aa3622-8653-4617-9d73-b3eb95b6e035.gif">
 </div>
 
 </br>
@@ -45,4 +46,3 @@
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/eduardoproenca/count.svg" /></p>
 
 ![snake gif](https://github.com/eduardoproenca/eduardoproenca/blob/output/github-contribution-grid-snake.svg)
-
