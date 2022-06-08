@@ -10,11 +10,11 @@
  <div align="left">
  <a href="https://github.com/eduardoproenca">
  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=eduardoproenca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoproenca&layout=compact&langs_count=7&theme=dark"/>
+ <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoproenca&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
 </br>
- <div align="right">
+ <div align="left">
  <a href="https://github.com/eduardoproenca">
  <img height="250cm" src="https://user-images.githubusercontent.com/107010062/172722819-66aa3622-8653-4617-9d73-b3eb95b6e035.gif">
 </div>
