@@ -9,28 +9,34 @@
 </br>
  <div align="left">
  <a href="https://github.com/eduardoproenca">
- <img height="175em" src="https://github-readme-stats.vercel.app/api?username=eduardoproenca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
- <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoproenca&layout=compact&langs_count=7&theme=dark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoproenca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+ </div>
+ <div align="left"> </br>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoproenca&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
 </br>
- <div align="left">
+ <div align="right">
  <a href="https://github.com/eduardoproenca">
  <img height="250cm" src="https://user-images.githubusercontent.com/107010062/172722819-66aa3622-8653-4617-9d73-b3eb95b6e035.gif">
 </div>
 
 </br>
  <div align="center">
-<div style="display: inline_block"><br>
+<h2> tools I'm using </h2>
+ <div style="display: inline_block"><br>
   <img align="center" alt="Edu-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Edu-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Edu-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Edu-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+  <img align="center" alt="Edu-Java" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Edu-React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ </div>
 
 </br>
 <div align="center">
-   <a href="https://www.tiktok.com/@uphoenixz" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
+   <h2> my social networks </h2>
+ <a href="https://www.tiktok.com/@uphoenixz" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCSch6gG7CEGznFz9OTKKqZw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
    <a href="https://web.facebook.com/GabrielZeus2002/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/gab_proenca/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
