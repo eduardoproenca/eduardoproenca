@@ -1,4 +1,4 @@
-## Olá, Eu sou Eduardo Proença
+## Olá, Eu sou Eduardo Proença :stuck_out_tongue_winking_eye:
 ![wink-eye](https://user-images.githubusercontent.com/107010062/172271952-29aa4779-a01c-4f10-bce9-768d07e91dce.gif) </br>
   </br>
   <a href="https://github.com/eduardoproenca">
@@ -9,7 +9,7 @@
 
 </br>
 <div align="center">
-<h2> Seja, Bem vindo! </h2>
+<h2> Seja, Bem vindo! :robot: </h2>
 </div>
 
 </br>
@@ -20,7 +20,7 @@
 
 </br>
  <div align="center">
-<h2> tools I'm using </h2>
+<h2> tools I'm using :wrench: </h2>
  <div style="display: inline_block"><br>
   <img align="center" alt="Edu-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Edu-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -32,7 +32,7 @@
 
 </br>
 <div align="center">
-   <h2> my social networks </h2>
+   <h2> my social networks :point_down: </h2>
  <a href="https://www.tiktok.com/@uphoenixz" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCSch6gG7CEGznFz9OTKKqZw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
    <a href="https://web.facebook.com/GabrielZeus2002/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
