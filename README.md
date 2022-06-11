@@ -2,7 +2,7 @@
 ![wink-eye](https://user-images.githubusercontent.com/107010062/172271952-29aa4779-a01c-4f10-bce9-768d07e91dce.gif) </br>   
   
   <div align= "right">
-  <h2> :e-mail: eduardogabs020@gmail.com </h2>
+  <h2> :point_right: :e-mail: eduardogabs020@gmail.com </h2>
   </div>
  
  
