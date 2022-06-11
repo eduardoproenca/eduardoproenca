@@ -1,4 +1,4 @@
-## Olá, Eu sou Eduardo Proença :stuck_out_tongue_winking_eye:
+## Hello, I AM Eduardo Proença :stuck_out_tongue_winking_eye:
 ![wink-eye](https://user-images.githubusercontent.com/107010062/172271952-29aa4779-a01c-4f10-bce9-768d07e91dce.gif) </br>
   
   </br>
