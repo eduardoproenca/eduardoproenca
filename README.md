@@ -14,7 +14,7 @@
 
 </br>
  <div align="center">
-<h2> tools I'm learning to use :wrench: </h2>
+  <h2>  tools I'm learning to use :wrench: </h2>
  <div style="display: inline_block"><br>
   <img align="center" alt="Edu-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Edu-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
