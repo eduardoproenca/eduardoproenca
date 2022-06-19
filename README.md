@@ -24,7 +24,7 @@
 </br>
 <div align="center">
    <h2> my social networks :point_down: </h2>
-   <a href="https://web.facebook.com/GabrielZeus2002/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+   <a href="https://web.facebook.com/GabrielZeus2002/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=pink" target="_blank"></a> 
   <a href="https://www.instagram.com/gab_proenca/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/eduardo-gabriel-proen%C3%A7a-de-carvalho-progms01000111/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  </br>
   <a href = "mailto:eduardogabs020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
